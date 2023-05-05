@@ -25,6 +25,8 @@ This project is a sample implementation of IAM using Neo4j. It demonstrates how 
 - Permission management
 - Access control policy management
 
+-![Alt Text](SS01.PNG)
+
 ## Prerequisites
 
 Before you begin, you will need the following:
